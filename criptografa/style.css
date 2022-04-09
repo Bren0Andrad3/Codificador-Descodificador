@@ -1,0 +1,17 @@
+.Borda1{
+    border: solid 1px gray;
+    
+}   
+
+.Alinhar{
+    text-align: center;
+}
+
+body{
+    background-image: url("https://eadesign.art.br/wp-content/uploads/2016/12/fundo-criacao-de-site-rj.jpg") ;
+    font-family: monospace;
+}
+
+.footer{
+    text-align: inherit;
+}
